@@ -1,4 +1,4 @@
-<p align="center"><img src="https://sdk.bitmoji.com/render/panel/a9d3fb21-c7c8-454c-861a-643f44bf9673-0c19fa60-a2ae-4b99-b509-f58bb1580418-v1.png?transparent=1&palette=1" /></p>
+<p align="center"><img src="https://sdk.bitmoji.com/render/panel/a9d3fb21-c7c8-454c-861a-643f44bf9673-ca33aa21-f186-441c-ac5b-260fffa488c3-v1.png?transparent=1&palette=1" /></p>
 
 ---
 
